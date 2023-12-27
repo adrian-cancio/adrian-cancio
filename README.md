@@ -5,4 +5,4 @@
 - 💬 Ask me about object-oriented programming, data structures, and software development.
 - 📫 How to reach me: cancio@duck.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I won the "EDP: Peer to Peer Trading Transactive Energy and Blockchain" challenge.
+- ⚡ Fun fact: I participated on the "EDP: Peer to Peer Trading Transactive Energy and Blockchain" challenge.
