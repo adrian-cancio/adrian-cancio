@@ -5,5 +5,5 @@
 - 🛠️ **Learning & Exploring:** Currently deepening my knowledge in **PowerShell** for advanced scripting and expanding my expertise in **Cloud/DevOps** methodologies.
 - 🤝 **Collaboration:** Interested in contributing to innovative projects, especially those related to **DevSecOps pipelines** and **system configuration**.
 - 💬 **Ask me about:** Object-Oriented Programming, Data Structures, Spring Boot, and Cross-Platform Scripting.
-- 📫 **How to reach me:** cancio@duck.com
+- 📫 **How to reach me:** adriancancio@duck.com
 - 😄 **Pronouns:** He/Him
